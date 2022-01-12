@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225923078819",
+    "project_id": "churchmasowe",
+    "storage_bucket": "churchmasowe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225923078819:android:46dcaf7c4410d7dfd7fd16",
+        "android_client_info": {
+          "package_name": "com.mwenda.masowe.masowe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225923078819-f4r72144m1imlt32qilplptgjernlo9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mwenda.masowe.masowe",
+            "certificate_hash": "37d9749f67e4dbabe4896000e4dd8a6e55404548"
+          }
+        },
+        {
+          "client_id": "225923078819-p80fs4qiqs1qu17pu0ev39hig4mv62l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7Klyg7h909dq6rlbAgyhc0zMPWbHyuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225923078819-p80fs4qiqs1qu17pu0ev39hig4mv62l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
