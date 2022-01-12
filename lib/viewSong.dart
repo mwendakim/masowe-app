@@ -24,7 +24,7 @@ class _ViewSongsState extends State<ViewSongs> {
     // step with DatabaseURL
 
     var url =
-        "https://firestoredemo-7fdd2-default-rtdb.firebaseio.com/" +
+        "use your firebase url" +
             "data.json";
     // Do not remove “data.json”,keep it as it is
     try {
