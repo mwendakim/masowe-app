@@ -21,7 +21,7 @@ class _Song_SubmissionState extends State<Song_Submission> {
     // Please replace the Database URL
     // which we will get in “Add Realtime
     // Database” step with DatabaseURL
-    var url = "https://firestoredemo-7fdd2-default-rtdb.firebaseio.com/"+"data.json";
+    var url = "use your firebase url"+"data.json";
 
     // (Do not remove “data.json”,keep it as it is)
     try {
